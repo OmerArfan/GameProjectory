@@ -77,7 +77,7 @@ if command == 'p' or command == 'P':
   if mrookhe1 <= 0 and mrookhe2 <= 0:
    command = str(input("Level 4 cleared!"))
    wins = 4
-  if igheal <= 0 and mrookhe1 != 0 or mrookhe2 != 0:
+  if igheal <= 0 and (mrookhe1 != 0 or mrookhe2 != 0):
    igheal = yourheal
    mrookhe1 = mrookhe
    mrookhe2 = mrookhe
