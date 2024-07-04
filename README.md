@@ -1,17 +1,26 @@
 My name is Omer Arfan, living just on the corners of Pakistan. Just a beginner programmer; nothing much yet. IT is a steep hill, but the establishment could be substantial in the future. In the meantime, check these notes about the two projects I've been working on recently:
 1)THE ROBO DIVERSION:
  Level 1:
-  Player VS Larry [TEMPORARY CODENAME]
+  Player VS I. U.
  Level 2: 
-  Player VS Lawrie [TEMPORARY CODENAME]
+  Player VS S. U.
  Level 3:
   Player VS:
-  1)Rookie [WEAKEST ROBOT]
+  1)Mini Rookie [WEAKEST ROBOT]
  Level 4:
   Player VS:
-  1)Rookie
-  2)Rookie 
-  [MULTI ENEMIES, STILL IN PROGRESS]
+  1)Mini Rookie
+  2)Mini Rookie 
+  [DOUBLE ENEMIES SYSTEM]
+ Level 5:
+  [INTRODUCTION TO WAVES SYSTEM]
+  WAVE 1:
+   Player VS
+   1)Rookie
+  WAVE 2:
+   Player VS
+   1)Ultra Rookie
+   2)Cage [CONTAINING A NEW CHARACTER: WIZARD]
  UPGRADE SYSTEM:
   DAMAGE: LEVEL 1 TO 11
   HEALTH: LEVEL 1 TO 11
@@ -19,7 +28,8 @@ My name is Omer Arfan, living just on the corners of Pakistan. Just a beginner p
   CRATES:
    Crates are the way to progress in the game! Upon winning a battle, you unlock a crate, which can be opened immediately or saved for later. These crates contain(for the time being) coins, which are used to upgrade your gear! Crates rarity goes from Super Common(1 in 2) to Cosmic(1 in 1000000). More to come later!
  ECONOMY[UNDERDEVELOPED]:
-  Coins are currently the only available resource in the game. They are used to upgrade damage and health gear.
+  Coins are used to upgrade damage and health gear.
+  Character tokens don't have a use as of now, but have a look and see...
  PLANS FOR THE FUTURE[FROM HIGHEST TO LOWEST PRIORITY]:
   New types for robots, the Rootless Jungle environment completed, a wider variety of gear(both damage and health), new currencies for upgrading as well as unlocking gear, new playable characters with unique gears and cuurencies to unlock them, expanding the crate reward system.
  It is a long list, but for the record, the last three things are not in the scope of this project for the time being.
